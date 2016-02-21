@@ -1,3 +1,5 @@
 cresting clomplex commits
 bk
 by only adding changes for the logical change to the staging area
+Working on multiple features at the same time
+Creating derivatives
